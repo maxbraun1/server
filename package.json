@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server and client app",
+  "main": "server.js",
+  "dependencies": {
+    "express":"*",
+    "socket.io":"*"
+  },
+  "scripts": {
+    "start":"server.js"
+  },
+  "author": "Max Braun",
+  "license": "ISC"
+}
